@@ -1,5 +1,5 @@
 
-# 🔥 Automatisation du Profiling des Clients (Flask + React)
+# Automatisation du Profiling des Clients (Flask + React)
 
 Ce projet implémente un système intelligent d'automatisation du profiling des clients en exploitant l’apprentissage automatique et le NLP. L'objectif est de regrouper les profils similaires et d’améliorer la gestion des interactions avec les utilisateurs.
 
@@ -21,7 +21,7 @@ Le projet est structuré en **backend Flask** et **frontend React** :
 
 ---
 
-## 🚀 Fonctionnalités
+## Fonctionnalités
 ✅ **Profiling automatique** basé sur l'apprentissage automatique  
 ✅ **Analyse et segmentation des utilisateurs** avec clustering  
 ✅ **Stockage des données** avec MongoDB  
@@ -67,7 +67,7 @@ L’application sera accessible à `http://localhost:3000`.
 ---
 
 
-## 📌 Technologies Utilisées
+## Technologies Utilisées
 ### 🔧 Backend (Flask)
 - Python 3
 - Flask
