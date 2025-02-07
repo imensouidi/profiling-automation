@@ -91,6 +91,8 @@ Le rapport détaillé est disponible à la racine du projet sous le nom [`Rappor
 - 🖥️ Les diagrammes UML (cas d'utilisation, séquences, classes)
 - 📊 Les résultats et analyses du modèle d'apprentissage automatique
 
+
 🎥 **Vidéo de Démonstration**  
-Une démonstration vidéo de l'application est disponible à la racine du projet sous le nom [📥 Télécharger la Démo](https://github.com/votre-utilisateur/profiling-automation/raw/main/Démonstration.mp4). Vous pouvez la visionner directement en cliquant sur ce lien ou en téléchargeant le fichier.
+Une démonstration vidéo de l'application est disponible à la racine du projet sous le nom [`Démonstration.mp4`](Démonstration.mp4). Vous pouvez la visionner directement en cliquant sur ce lien ou en téléchargeant le fichier.
+
 
